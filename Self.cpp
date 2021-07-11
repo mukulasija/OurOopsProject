@@ -3,16 +3,11 @@
 #include<cstdlib>
 #include<ctime>
 #include "Self.h"
-#include "Family.h"
-#include "slot.h"
-
 using std::string;
 using std::cout;
 using std::cin;
 using std::cerr;
-using example::Family;
 using example::Self;
-using example::slot;
 using std::endl;
 
 namespace example

@@ -19,7 +19,8 @@ namespace example
         void personalDetails();
         void AddFamilyMember();
         void getbookingdetalis();
-        void EditFamilyDetails();    
+void EditFamilyDetails();
+        
     };
 }
 #endif
