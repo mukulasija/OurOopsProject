@@ -14,8 +14,6 @@ namespace example
         bool isassigned();
         void bookforname();
         void assign();
-        // int showfamilymembersforslotbooking();
-        // int showfamilymembersforslotchecking();
     };
 }
 #endif
